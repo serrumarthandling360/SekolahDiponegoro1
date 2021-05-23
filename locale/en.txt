@@ -7,6 +7,12 @@
 ### Title
 tour.name = SEKOLAH DIPONEGORO
 
+## Skin
+
+### Label
+Label_94ADAADA_99FA_EDC0_41E1_5571734D9797.text = Copyright SERRUm ARTHANDLING 2021
+Label_977B9B00_99F9_AC3F_41D6_786BC644E556.text = Copyright SERRUM ARTHANDLING 2021
+
 ## Media
 
 ### Title
